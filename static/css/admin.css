@@ -1,0 +1,10 @@
+#header,
+caption {
+  background: rgb(36, 134, 23) !important;
+}
+.breadcrumbs,
+h2,
+[type='submit'] {
+  background: rgb(147, 165, 42) !important;
+  color: rgb(233, 233, 233) !important;
+}
